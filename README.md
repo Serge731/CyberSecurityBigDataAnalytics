@@ -73,17 +73,7 @@ The dashboards present:
 ## 📥 Download & Access
 
 ### 🔗 PowerPoint Presentation
-[📂 Open Presentation](file:///D:/Disk%20drive/Staff/Semester%209/Intro%20to%20big%20data/CyberSecurityBigDataAnalytics/Capstone_Presentation.pptx)
+[📂 Open Presentation](file:///D:\Disk drive\Staff\Semester 9\Intro to big data\CyberSecurityBigDataAnalytics\Cybersecurity_Capstone_Presentation.ppt)
 
 ### 🖼 Dashboard Screenshots
 [📂 Open Screenshots Folder](file:///D:\Disk drive\Staff\Semester 9\Intro to big data\CyberSecurityBigDataAnalytics\Notebook Screenshots)
-
----
-
-## 🖼 Sample Screenshots
-
-### Traffic Overview Dashboard
-![Traffic Overview](images/traffic_overview_dashboard.png)
-
-### Anomaly Detection Dashboard
-![Anomaly Detection](images/anomaly_detection_dashboard.png)
