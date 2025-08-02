@@ -79,9 +79,6 @@ The dashboards present:
 [📁 Screenshots Folder](./screenshots/) | [🔍 View Gallery](#dashboard-gallery)
 
 ### 📄 Documentation
-- [📓 Jupyter Notebook](./analysis.ipynb)
-- [🐍 Python Scripts](./src/)
-- [📊 Power BI File](./dashboard.pbix)
 - [📋 Dataset](./data/refined_dataset_with_anomaly.csv)
 
 ### 🔗 Quick Links
