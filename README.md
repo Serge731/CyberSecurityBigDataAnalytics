@@ -74,7 +74,7 @@ The dashboards present:
 
 ### 📊 PowerPoint Presentation
 [🎯 View Presentation](./Cybersecurity_Capstone_Presentation.ppt) |
-(https://github.com/Serge731/CyberSecurityBigDataAnalytics/raw/main/Cybersecurity_Capstone_Presentation.ppt)
+(https://github.com/Serge731/CyberSecurityBigDataAnalytics/Cybersecurity_Capstone_Presentation.ppt)
 
 ### 🖼️ Dashboard Screenshots
 [📁 Screenshots Folder](./screenshots/) | [🔍 View Gallery](#dashboard-gallery)
