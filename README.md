@@ -79,7 +79,7 @@ The dashboards present:
 [📁 Screenshots Folder]([./screenshots/]() | [🔍 View Gallery](#dashboard-gallery)
 
 ### 📄 Documentation
-- [📋 Dataset]([./data/refined_dataset_with_anomaly.csv](https://github.com/Serge731/CyberSecurityBigDataAnalytics/blob/main/refined_dataset_with_anomaly.csv))
+- [📋 Dataset](https://github.com/Serge731/CyberSecurityBigDataAnalytics/blob/main/refined_dataset_with_anomaly.csv)
 
 ### 🔗 Quick Links
 | 📊 Data Analysis | Complete Jupyter Notebook | [Open Notebook](http://localhost:8888/notebooks/CyberSecurity%20docs/CyberSecurityProject.ipynb) |
