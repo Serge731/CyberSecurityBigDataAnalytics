@@ -73,7 +73,8 @@ The dashboards present:
 ## 📥 Files & Resources
 
 ### 📊 PowerPoint Presentation
-[🎯 View Presentation](./Cybersecurity_Capstone_Presentation.ppt) | [📥 Download](https://github.com/yourusername/CyberSecurityBigDataAnalytics/raw/main/Cybersecurity_Capstone_Presentation.ppt)
+[🎯 View Presentation](./Cybersecurity_Capstone_Presentation.ppt) |
+(https://github.com/Serge731/CyberSecurityBigDataAnalytics/raw/main/Cybersecurity_Capstone_Presentation.ppt)
 
 ### 🖼️ Dashboard Screenshots
 [📁 Screenshots Folder](./screenshots/) | [🔍 View Gallery](#dashboard-gallery)
@@ -85,11 +86,6 @@ The dashboards present:
 - [📋 Dataset](./data/refined_dataset_with_anomaly.csv)
 
 ### 🔗 Quick Links
-| Resource | Description | Link |
-|----------|-------------|------|
-| 🎯 Live Dashboard | Interactive Power BI Dashboard | [View Dashboard](https://app.powerbi.com/view?r=your-dashboard-id) |
-| 📊 Data Analysis | Complete Jupyter Notebook | [Open Notebook](./notebooks/cybersecurity_analysis.ipynb) |
-| 🔧 Source Code | Python scripts for analysis | [View Code](./src/) |
-| 📈 Results | Detailed findings and metrics | [View Results](./results/) |
+| 📊 Data Analysis | Complete Jupyter Notebook | [Open Notebook](http://localhost:8888/notebooks/CyberSecurity%20docs/CyberSecurityProject.ipynb) |
 
 ---
